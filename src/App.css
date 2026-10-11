@@ -767,6 +767,7 @@
   border: 1px solid #5f5c54;
   border-radius: 50%;
   color: white;
+  margin-top: 3rem;
   transition:
     background 180ms ease,
     color 180ms ease;
