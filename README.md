@@ -1,3 +1,12 @@
+Introducing Nova Commerce, my React e-commerce portfolio project.
+
+I built this modern frontend with a focus on responsive design, product presentation, and a smooth user experience.
+
+Explore the live website:
+https://zyvenox-nova-commerce.surge.sh
+
+#ReactJS #FrontendDevelopment #WebDevelopment
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
